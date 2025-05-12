@@ -45,6 +45,22 @@ window.addEventListener('DOMContentLoaded', () => {
           listEl.appendChild(li);
         });
       }
+      const allQrContainer = document.getElementById('all-course-qr');
+
+      courses.forEach((course, index) => {
+        const qrWrapper = document.createElement('div');
+        qrWrapper.id = `qr-${index}`;
+        qrWrapper.className = 'qr-wrapper';
+        qrWrapper.style.display = 'none';
+
+        const qr = new QRCode(qrWrapper, {
+          text: course.bookingLink,
+          width: 150,
+          height: 150
+        });
+
+        allQrContainer.appendChild(qrWrapper);
+      });
 
       function selectCourse(index, manual = false) {
         const aboutOdi = document.getElementById('about-odi');
@@ -95,13 +111,14 @@ window.addEventListener('DOMContentLoaded', () => {
         levelIcon.src = `img/${course.competencyLevel.toLowerCase()}.svg`;
         levelIcon.alt = `${course.competencyLevel} Level Icon`;
 
-        // Clear and generate QR code locally
-        qrContainer.innerHTML = '';
-        new QRCode(qrContainer, {
-          text: course.bookingLink,
-          width: 150,
-          height: 150
-        });
+        document.querySelectorAll('.qr-wrapper').forEach(div => div.style.display = 'none');
+        const matchingQr = document.getElementById(`qr-${index}`);
+        if (matchingQr) {
+            matchingQr.style.display = 'block';
+            const liveQrSlot = document.getElementById('course-qr');
+            liveQrSlot.innerHTML = '';
+            liveQrSlot.appendChild(matchingQr);
+        }
 
         if (manual) pauseCarousel();
       }
