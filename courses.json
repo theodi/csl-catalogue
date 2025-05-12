@@ -1,0 +1,348 @@
+[
+  {
+    "title": "Data and Analysis",
+    "overview": "<p>The intention of this course is not to turn policy professionals into data analysts. Instead, it is about giving you the confidence to effectively present the results of a piece of data analysis to decision-makers. This will only come from understanding, and feeling comfortable with, the process for data collection and analysis. It should allow middle and senior managers within the policy profession to act as an ‘intelligent’ customer; the intermediary who can both articulate data requirements to an analyst and communicate the results. Although primarily aimed at policy professionals, the course content should be equally useful for other professional groups.</p>",
+    "outcomes": [
+      "Help produce policy recommendations that are underpinned by more robust data analysis.",
+      "Be comfortable with open data.",
+      "Contribute to more effective decision-making across the Civil Service"
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual"
+    ],
+    "duration": "6 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/01-data-and-analytics/xcs-data-and-analysis/"
+  },
+  {
+    "title": "Data Ethics Professionals",
+    "overview": "<p>Learn the knowledge, skills, and ability to apply tools and educate others on how to use, collect and share data responsibly, minimising harmful impacts. Modules include what is data ethics; ethics and personal data; working with data from 3rd party sources; data analysis and ethics in practice and operationalising data ethics.</</p><p>You will become part of a network of professionals, and invited to regular peer learning events. Be able to use your certification to create services that are aimed at improving data ethics practices in projects and organisations.</p>",
+    "outcomes": [
+      "A deep understanding of data ethics as a domain",
+      "Practical expertise in data and techniques to evaluate ethical and legal risks",
+      "Ability to perform a professional piece of research, drawing on historical and peer-reviewed literature.",
+      "Ability to identify and use a number of tools to help evaluate ethical impacts, and suggest actions to minimise harmful impacts from data."
+    ],
+    "deliveryMethods": [
+      "virtual"
+    ],
+    "duration": "60 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/data-ethics-professionals/"
+  },
+  {
+    "title": "Understanding Data Ethics and AI",
+    "overview": "<p>Develop your understanding of data ethics and relevant data practices so you can evaluate and improve processes, products and services that are informed by data. This new online course features interactive content, an AI tutoring assistant and assessments to ensure you develop the skills you need to embrace the benefits of data in the age of AI - all whilst adhering to ethical standards and legal frameworks.</p>",
+    "outcomes": [
+      "Develop a foundational understanding of data ethics",
+      "Explore ethics in the context of personal data",
+      "Examine data ethics across the data lifecycle - from collection to application",
+      "Investigate issues of bias and fairness in data and AI",
+      "Study data ethics from a governance and CSR perspective",
+      "Learn how to embed data ethics into a business through the use of tools, processes and skills development",
+      "Reflect on your own professional practice",
+      "Look into future trends in data and AI ethics."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "15 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-artificial-intelligence/understanding-data-ethics-and-ai/"
+  },
+  {
+    "title": "Empowering data innovation through machine learning and AI",
+    "overview": "<p>Learn to apply machine learning and AI techniques to data and discover how ethical frameworks can help you avoid teaching your machines bad habits.</p><p>This course is non-technical and aimed at empowering managers and decision-makers with the knowledge they need to deploy innovative AI technologies effectively, enabling them to ask the right questions of technical teams they work with. It will drive innovation by equipping participants with a practical, non-technical introduction to the transformative potential of machine learning and AI, highlighting what AI can – and can’t – do. Through this course, participants gain hands-on experience in applying cutting-edge techniques to openly licensed, publicly available data, understanding key machine learning concepts, and identifying real-world applications of these technologies through scenario--based learning.</p>",
+    "outcomes": [
+      "Describe the key knowledge and skills to engage in machine learning, AI and ethics",
+      "Identify applications of machine learning",
+      "Examine shapes and trends in data",
+      "Apply a machine learning technique to real world data",
+      "Evaluate the risks of using machine learning without statistical knowledge",
+      "Analyse the limits of applications of machine learning data",
+      "Analyse the implications of using big data",
+      "Analyse the ethical risks of making automated decisions from data"
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual"
+    ],
+    "duration": "5 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/applying-machine-learning-and-ai-techniques-to-data/"
+  },
+  {
+    "title": "Generative AI: Driving Innovation in Data Practices",
+    "overview": "<p>This course helps organisations navigate the opportunities and challenges of generative AI, exploring its benefits across the data lifecycle while promoting responsible data practices to ensure compliance and minimize harmful or unintended impacts. Through four comprehensive sessions, participants will engage with real-world case studies that highlight the opportunities and risks of generative AI. We demystify the technology, clarify key terminology, and provide actionable strategies to become informed, responsible, and effective users and customers of generative AI.</p>",
+    "outcomes": [
+      "Understand the fundamentals of Generative AI (GenAI) and Large Language Models (LLMs)",
+      "Identify opportunities to integrate generative AI systems at various stages of the data lifecycle and develop strategies to enhance efficiency, accuracy, and adaptability in data workflows.",
+      "Discover how to build generative AI systems that adapt to unique workflows, providing targeted support for roles requiring access to detailed data and information.",
+      "Discover how to use generative AI to query, analyse, and derive meaningful insights from structured data and interconnected knowledge graphs, driving smarter decision-making.",
+      "Assess the ethical, legal, and operational considerations associated with generative AI systems",
+      "Gain hands-on experience with generative AI tools and techniques, building confidence in using AI-driven systems to solve practical challenges and deliver actionable insights."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual"
+    ],
+    "duration": "3 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://learning.theodi.org/courses/generative-ai-driving-innovation-in-data-practices"
+  },
+  {
+    "title": "The Foundations of Ethical Decision Making",
+    "overview": "<p>This course presents a number of ethical dilemmas, through which you will examine ethical decision-making and establish your own ethical decision making processes. This highlights the complexities of human desires and societal expectations that rarely converge into a universally satisfying resolution. This course will also help unravel the myth of absolute impartiality as we explore the inescapable presence of bias and break the boundary between ethics and law.</p><p>It is not all doom and gloom however. This course culminates by looking at the ethical decision making process and highlighting the key steps shared by many that help support the resolution of complex ethical dilemmas.</p>",
+    "outcomes": [
+      "Explore different ethical frameworks, their strengths, their weaknesses and application to AI",
+      "Learn how to navigate ethical challenges through a principled step by step SAD-AM model.",
+      "Explore the inescapable presence of bias and break the boundary between ethics and law.",
+      "Ensure inclusivity, ethical growth and organisational impact.\""
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "1.5 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/the-foundations-of-ethical-decision-making/"
+  },
+  {
+    "title": "Legal and Regulatory Frameworks",
+    "overview": "<p>In this course we delve into the pivotal regulations that exert influence across all phases of the data lifecycle, with a particular emphasis on emerging AI regulations.</p><p>Furthermore, we address the intricate topic of data licensing, delving into the complex inquiry of whether an AI should possess the same rights as a human to peruse copyrighted content accessible online. We also tackle the responsibility surrounding instances where an AI generates derivative works that may potentially infringe upon copyright.</p>",
+    "outcomes": [
+      "Develop an overarching understanding of Data Protection Laws (e.g., GDPR, PIPA, PECR, CCPA, etc.) and their purpose",
+      "Examine rights and responsibilities in relation to data collection, sharing and use",
+      "Understand the purpose of data licences and interoperability, and be able to evaluate the impact of data ethics when balancing legal compliance"
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "2 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/legal-and-regulatory-frameworks/"
+  },
+  {
+    "title": "Ethics and Personal Data",
+    "overview": "<p>Legal frameworks provide a structure for how personal data can be used. However, there are many data practices that boost the usability of data that may compromise the privacy of individuals. In this course you will explore and develop skills in handling personal datresponsibly.</p>",
+    "outcomes": [
+      "Develop the skills to handle personal data responsibly.",
+      "Investigate data anonymisation techniques: how to mitigate the risks whilst maintaining the utility of data.",
+      "Gain hands-on experience in handling sensitive information and engage with our AI assistant tutor for instant feedback on your work."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "2 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/ethics-and-personal-data/"
+  },
+  {
+    "title": "Ethics in Data Collection",
+    "overview": "<p>In this course, we will explore three key areas and address the ethical nuances, potential sources of bias, and the importance of terminology in the data collection process. This will equip you with the knowledge and tools necessary to navigate the intricate terrain of data collection with ethics and integrity.</p>",
+    "outcomes": [
+      "Explore ethical practices in the collection of data.",
+      "Equip yourself with the knowledge and tools necessary to navigate the intricate terrain of data collection with ethics and integrity",
+      "Evaluate the sources of bias during data collection and mitigation strategies."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "2.5 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/ethics-in-data-collection/"
+  },
+  {
+    "title": "Bias and Fairness in Data and AI",
+    "overview": "<p>In Bias and Fairness in Data and AI, you explore the fundamental concept of bias and its implications in data collection, analysis, and AI applications.</p><p>You will develop the skills to detect bias at various stages of the data lifecycle, understanding the deceptive power of numbers, and statistical techniques to uncover hidden truths. Whether you're a data scientist, a machine learning engineer, a policymaker, or simply curious about the impact of data and AI on society, this course is tailored to provide valuable insights and practical strategies.</p>",
+    "outcomes": [
+      "Develop skill to ensure that algorithms that process data are “fair”.",
+      "Develop your understanding of bias in data and algorithms and actively identify instances of bias in real-world datasets.",
+      "Uncover the impact and consequences of bias in data and artificial intelligence."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "3 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-artificial-intelligence/bias-and-fairness-in-data-and-ai/"
+  },
+  {
+    "title": "Transparency and Explainability in Data",
+    "overview": "<p>This three-part course will illuminate the multifaceted world of transparency and explain ability within data and AI systems. We will begin by exploring the transparency spectrum, examining what transparency truly means, and understanding its benefits and challenges. In the second section, we will delve into the various approaches organisations can employ to enhance transparency in their data and AI systems. From technical transparency to process transparency and outcome transparency, we will uncover the strategies that empower stakeholders to gain a deeper understanding of these complex systems. Lastly, we will venture into the realm of explainable data and AI (XAI). As AI systems continue to make impactful decisions, it's imperative that we can interpret and trust their processes. This section will introduce the benefits of explain ability, explore techniques to make data and AI explainable, and address the current challenges and approaches in this critical area.</p><p>By the end of this course, you will not only appreciate the significance of transparency and explain ability in data and AI systems but also possess the knowledge to navigate and advocate for these essential principles more widely.</p>",
+    "outcomes": [
+      "Explore key aspects of building trust in data practices and AI models.",
+      "Implement techniques for developing AI models that are explainable and interpretable.",
+      "Examine existing ethical guidelines and frameworks that promote transparency and explain ability and how this can be embedded in your organisational context."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "2 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/transparency-and-explainability-in-data/"
+  },
+  {
+    "title": "Tools and Frameworks in Evaluating Ethical Data Practices",
+    "overview": "<p>Data ethics evaluation tools are guided frameworks designed to assess and ensure ethical considerations across the stages of the data lifecycle, including collection, storage, analysis, modelling, and deployment, as well as the design of continuous monitoring practices. These tools help organisations and individuals make informed, ethical decisions about data practices.</p><p>This course explores the tools and frameworks to evaluate data practices from an ethical perspective and provides the basis for you to apply impact assessments. As you’ll learn, there are many ways to evaluate ethical outcomes. A popular method for structuring these evaluations is to design and conduct an Ethical Impact Assessment (EIA).</p><p>These assessments provide the opportunity to examine projects and practices to help identify positive and negative outcomes. Ethical Impact Assessments can be applied to data projects, as well as to the design and implementation of technologies such as AI.</p>",
+    "outcomes": [
+      "Explain the iterative process of EIAs, including stakeholder involvement, ethical framework establishment, risk analysis, mitigation planning, and the importance of documentation.",
+      "Apply the SAD+AM model for sustainable ethical decision-making, emphasising stakeholder involvement throughout the ethical evaluation process.",
+      "Distinguish between Ethical Impact Assessments and Data Ethics Tools, explaining how they are complementary processes in ensuring ethical practices, particularly in AI contexts.",
+      "Apply Consequence Scanning to real-world examples, and utilise the Consequence and Risk Evaluation (CARE) tool to categorise consequences, prioritise actions, and demonstrate proficiency in AI-supported ethical assessments."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "2 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/tools-and-frameworks-in-evaluating-ethical-data-practices/"
+  },
+  {
+    "title": "Strategic Data Skills",
+    "overview": "<p>What does it mean to be data literate? What are the data skills required to attain data literacy?</p><p>Oftentimes, being data literate is conflated with being technical and that raises the question of how you develop the abilities to use data without the need to learn complex engineering practices. This course will equip you with the theoretical knowledge, practical skills and technical know-how to make better decisions using data. It’s a comprehensive course for people who want to work strategically with data, but don't need or want to learn complex programming. </p><p>The course emphasises a hands-on approach to learning data skills. In each module, interactive, online exercises will give you practical experience using the techniques and concepts to solve real challenges with real data. To keep you on track you will additionally have access to guidance, feedback and support from a dedicated course tutor.</p>",
+    "outcomes": [
+      "Identify how open and shared data infrastructures can improve decision making",
+      "Apply strategic thinking to new data projects",
+      "Open and shared approaches that make it easier to create and build impactful products and services",
+      "Make better decisions with data",
+      "Clean and prepare data",
+      "Analyse data and communicate the insight",
+      "Apply different data visualisation techniques"
+    ],
+    "deliveryMethods": [
+      "virtual"
+    ],
+    "duration": "50 hours",
+    "competencyLevel": "Working",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/strategic-data-skills/"
+  },
+  {
+    "title": "Open Data in a Day",
+    "overview": "<p>Learn how to discover, use and describe the benefits of open data, and how it impacts your organisation.</p>",
+    "outcomes": [
+      "What open data is, its benefits and opportunities",
+      "Case studies of successful open data projects",
+      "How to minimise risks by understanding licensing and certificates",
+      "How to discover and use open data",
+      "With a mixture of practical exercises, case studies and the latest learnings from the field of open data, our experts will remove the complexity and increase your confidence in working with open data."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual"
+    ],
+    "duration": "7 hours",
+    "competencyLevel": "Foundation",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/open-data-in-a-day/"
+  },
+  {
+    "title": "Building a Healthy Data Ecosystem",
+    "overview": "<p>In order to unlock the full potential of data we must understand the data ecosystem and how to build a strong and supported data infrastructure. In this course you will upskill in the foundations of data and learn how to embed a robust and efficient data infrastructure, and learn how to unlock the full value of data so that your organisation is primed for success.</p>",
+    "outcomes": [
+      "Define what data is, explore how it exists on a spectrum and explain how it used to",
+      "construct insights and evidence for new concepts and ideas",
+      "Explore the history of data journalism and storytelling, and contextualise data storytelling",
+      "and how you use it in your professional practice",
+      "Examine the concept of ‘data is infrastructure’ and how this analogy enables you to",
+      "understand the need for positive and sustainable investment in open data practices",
+      "through the use of real-world examples",
+      "Explore a number of measures of success for building a healthy data ecosystem and",
+      "some of the barriers that could prevent the full value of data being realised.",
+      "Evaluate your own practices and how data is used in your organisation\""
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "2.5 hours",
+    "competencyLevel": "Foundation",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/building-a-healthy-data-ecosystem/"
+  },
+  {
+    "title": "Organising and Validating Data",
+    "overview": "<p>By the end of this course you will understand how to organise and clean data, as well as undertake activities to quality check and enable greater utility and interoperability of data.</p><p>To achieve this, you will: Investigate the gathering of data, including various sources of data and the practices employed in finding the data; Examine the structure of data and determine approaches to organise the data into the appropriate structure as well as apply cleaning techniques to increase the utility of data.",
+    "outcomes": [
+      "Learn best practices to clean data, improve its quality, accuracy and reliability.",
+      "Gain confidence in working with and managing data."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "3.5 hours",
+    "competencyLevel": "Foundation",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/organising-and-validating-data/"
+  },
+  {
+    "title": "An Introduction to Data Analysis",
+    "overview": "<p>This course looks at three key things: how numbers and summary statistics can lead us to incorrect conclusions in \"Seeing through a world of numbers\"; why establishing \"the shape of data\" is critical to discover its limitations and biases; and why plotting \"Trends in data\" is more challenging than taking a ruler to a plot. </p><p>Following this we'll then look at how some key statistical techniques and tools can be applied to data.</p>",
+    "outcomes": [
+      "Learn the basics of how to analyse data.",
+      "Evaluate data from different sources ensuring quality.",
+      "Acquire skills to extract meaningful insights from your datasets."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "3.5 hours",
+    "competencyLevel": "Foundation",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/an-introduction-to-data-analysis/"
+  },
+  {
+    "title": "Telling Stories with Data",
+    "overview": "<p>By the end of this course you will understand how to produce and present appropriate data visualisations that deliver a connected and relevant narrative.</p><p>To achieve this, you will: explore data visualisation best practice and understand the principles behind effective data visualisations; examine where visualisations can be used to misrepresent or deceive and the impact this has on our outcomes; evaluate complex stories and their impact; and create a narrative that tells the story of the data.</p>",
+    "outcomes": [
+      "Develop the ability to communicate complex data findings effectively.",
+      "Craft compelling narratives using visualisations and storytelling techniques."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual",
+      "digital"
+    ],
+    "duration": "3 hours",
+    "competencyLevel": "Foundation",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/telling-stories-with-data/"
+  },
+  {
+    "title": "Publishing Open Linked Data",
+    "overview": "<p>This course is designed to provide participants with a comprehensive understanding of the principles and practices involved in publishing open linked data. Over four interactive sessions, participants will explore the foundational concepts of open data publication, delve into the intricacies of linked data, learn how to create linked data from existing tabular datasets, and discover strategies for creating new vocabularies when needed. Through a combination of theoretical discussions, hands-on exercises, and practical demonstrations, participants will gain the knowledge and skills necessary to effectively publish and promote open linked data.</p>",
+    "outcomes": [
+      "Comprehend the core principles and benefits of open and linked data.",
+      "Navigate the world of linked data formats and standards with ease.",
+      "Use the CSVw standard to transform tabular datasets into linked data.",
+      "Annotate datasets with existing linked data vocabularies.",
+      "Craft new vocabularies to enhance the linked data community.",
+      "Document, publish, and advocate for the use of open linked datasets.",
+      "Promote data interoperability, accessibility, and reusability.",
+      "Collaborate with the community to push the boundaries of open linked data practices."
+    ],
+    "deliveryMethods": [
+      "face-to-face",
+      "virtual"
+    ],
+    "duration": "16 hours",
+    "competencyLevel": "Expert",
+    "bookingLink": "https://prospectus.governmentcampus.co.uk/04-data-and-analytics/publishing-open-linked-data/"
+  }
+]

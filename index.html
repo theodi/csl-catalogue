@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ODI Courses Exhibition</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <nav class="sidebar">
+      <ul id="course-list"></ul>
+      <div class="sidebar-footer">
+        <div class="logo">
+          <img src="img/logo.png" alt="ODI Logo">
+        </div>
+        <button id="toggle-btn" aria-label="Pause slideshow">⏸</button>
+      </div>
+    </nav>
+    <main class="content">
+        <div id="about-odi" class="odi-modal hidden">
+            <div class="odi-content">
+              <div class="odi-header">
+                <div class="odi-text">
+                  <h1>The Open Data Institute</h1>
+                  <p>The ODI is a non-profit company committed to advancing trust in data across the spectrum - from closed to shared to open data.</p>
+                  <p>The ODI was founded in 2012 by Sir Tim Berners-Lee and Sir Nigel Shadbolt, placing us at the heart of the data economy. Our primary mission is to foster transparency, accountability, and innovation through data.</p>
+                  <p>We are independent of government, non-partisan and non-profit, making us the trusted delivery partner for corporate, public, and civil society organisations. We are funded through our market-leading commercial activities, and grants from philanthropic and government bodies worldwide.</p>
+                </div>
+                <img src="img/tim-nigel.jpg" alt="Tim Berners-Lee and Nigel Shadbolt" class="odi-image">
+              </div>
+              <div class="odi-main">
+                <h2>Our work</h2>
+                <p>We work to advance trust in data by providing training, consultancy services, tools and guides - all designed to enable organisations to become more confident and capable in their stewardship and use of data. For more than ten years, we have conducted world-class research with the guidance of our founders, building an extensive body of knowledge and expertise on which to build our professional practice.</p>
+              </div>
+                <div id="odi-qr" class="qr"></div>
+                <a id="odi-link" href="https://theodi.org" target="_blank">https://theodi.org</a>
+            </div>
+          </div>
+        <div id="course-modal" class="course-modal">
+            <h1 id="course-title">Select a course</h1>
+            <p id="course-overview">Course overview will appear here when you select a course.</p>
+            <div id="details" class="course-details">
+                <h2>Outcomes</h2>
+                <ul id="course-outcomes" class="outcomes"></ul>
+                <h3>Format/s</h3>
+                <div id="delivery-methods" class="icon-list"></div>
+                <h3>Duration:</h3>
+                <p>
+                    <span class="icon-text">
+                    <img src="img/duration.svg" alt="Duration Icon" class="icon">
+                    <span id="course-duration"></span>
+                    </span>
+                </p>
+                <h3>Competancy level:</h3>
+                <p>
+                    <span class="icon-text">
+                    <img id="level-icon" src="" alt="Level Icon" class="icon">
+                    <span id="course-level"></span>
+                    </span>
+                </p>
+                <img id="course-qr" class="qr" src="" alt=" ">
+                <a id="course-link" href="#" target="_blank">Book now</a>
+            </div>
+        </div>
+    </main>
+  </div>
+  <script src="qrcode.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
