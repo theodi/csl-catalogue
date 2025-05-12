@@ -115,9 +115,6 @@ window.addEventListener('DOMContentLoaded', () => {
         const matchingQr = document.getElementById(`qr-${index}`);
         if (matchingQr) {
             matchingQr.style.display = 'block';
-            const liveQrSlot = document.getElementById('course-qr');
-            liveQrSlot.innerHTML = '';
-            liveQrSlot.appendChild(matchingQr);
         }
 
         if (manual) pauseCarousel();
@@ -132,27 +129,54 @@ window.addEventListener('DOMContentLoaded', () => {
         selectCourse(currentIndex);
       }
 
-      function startCarousel() {
-        slideInterval = setInterval(() => {
-          if (!isPaused) nextCourse();
-        }, 15000);
-      }
+      /* script.js addition */
+    const countdownEl = document.getElementById('countdown');
+    let countdownValue = 15;
+    let countdownTimer;
 
-      function pauseCarousel() {
+    function updateCountdown(seconds) {
+        console.log('Updating countdown to:', seconds);
+        clearInterval(countdownTimer);
+        countdownValue = seconds;
+        countdownEl.textContent = `${countdownValue}s`;
+        countdownTimer = setInterval(() => {
+            countdownValue--;
+            countdownEl.textContent = `${countdownValue}s`;
+            if (countdownValue <= 0) clearInterval(countdownTimer);
+        }, 1000);
+    }
+
+    function startCarousel() {
+        console.log('Starting carousel');
+        clearInterval(slideInterval);
+        slideInterval = setInterval(() => {
+            if (!isPaused) {
+            nextCourse();
+            updateCountdown(15);
+            }
+        }, 15000);
+        updateCountdown(15);
+    }
+
+    function pauseCarousel() {
         isPaused = true;
         toggleBtn.textContent = '▶';
+        clearInterval(slideInterval);
         clearTimeout(pauseTimeout);
+        updateCountdown(60);
         pauseTimeout = setTimeout(() => resumeCarousel(), 60000);
-      }
+    }
 
-      function resumeCarousel() {
+    function resumeCarousel() {
         const aboutOdi = document.getElementById('about-odi');
         const courseModal = document.getElementById('course-modal');
         aboutOdi.classList.add('hidden');
         courseModal.classList.remove('hidden');
         isPaused = false;
         toggleBtn.textContent = '⏸';
-      }
+        clearInterval(slideInterval);
+        startCarousel();
+    }
 
       toggleBtn.addEventListener('click', () => {
         if (isPaused) resumeCarousel(); else pauseCarousel();
