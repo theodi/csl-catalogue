@@ -18,7 +18,7 @@ window.addEventListener('DOMContentLoaded', () => {
       const toggleBtn = document.getElementById('toggle-btn');
 
       let currentIndex = 0;
-      let isPaused = false;
+      let isPaused = true;
       let pauseTimeout;
       let slideInterval;
 
@@ -185,7 +185,9 @@ window.addEventListener('DOMContentLoaded', () => {
       // Initialize display
       renderList();
       selectCourse(0);
-      startCarousel();
+      // Carousel requires manual activation - start paused
+      toggleBtn.textContent = '▶';
+      countdownEl.textContent = 'Paused';
     }
   });
 
